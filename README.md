@@ -1,2 +1,1 @@
-# exercise-tracker-microservice
-Part of the APIs and Microservices Projects curriculum from freeCodeCamp.
+# [Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)

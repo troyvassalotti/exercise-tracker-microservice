@@ -1,0 +1,64 @@
+/****** Main Styling ******/
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #131112;
+	background-color: #f7f7f7;
+}
+
+code {
+  font-family: monospace;
+  padding: 2px;
+}
+
+a {
+	color: #2574A9;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+form {
+  margin-bottom: 25px;
+  padding: 15px;
+  background-color: #27a9f1;
+  display: inline-block;
+  width: 100%;
+  max-width: 340px;
+  border-radius: 5px;
+}
+
+input {
+  display: block;
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 100%;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+input[type=submit] {
+  font-size: 16px;
+  border-radius: 3px;
+  background-color: #E4F1FE;
+  border: 1px solid grey;
+  box-shadow: 2px 2px #999;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #FFFEC4;
+}
+
+code {
+  font-family: monospace;
+  font-size: 1.2em;
+  background-color: #FFFEC4;
+  padding: 2px;
+}
